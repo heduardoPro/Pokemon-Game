@@ -8,4 +8,4 @@ O Projeto tem o intuito de concluir a disciplina. Utilizando todos os assuntos a
     <p>Herança multipla e interfaces</p>
     <p>UML:
         Diagrama de Classes e funcionalidades
-<img src="/Pokemon-Game/Diagrama/de/Classes.jpg">
+<div><img src="/Pokemon-Game/Diagrama/de/Classes.jpg"></div>
