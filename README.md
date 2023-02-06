@@ -9,3 +9,4 @@ O Projeto tem o intuito de concluir a disciplina. Utilizando todos os assuntos a
     <p>UML:
         Diagrama de Classes e funcionalidades
 ![Diagrama de Classes](https://user-images.githubusercontent.com/106780242/216971860-ad37cca0-58ba-44b7-962e-6cbf0548b2b9.jpg)
+[Estrutura do Projeto](https://www.notion.so/Estrutura-844f7ce9c91043918198adf00898365e)
